@@ -1,0 +1,14 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\TransIT.Domain\TransIT.Domain.csproj" />
+    <ProjectReference Include="..\TransIT.Infrastructure\TransIT.Infrastructure.csproj" />
+  </ItemGroup>
+
+</Project>

@@ -1,0 +1,12 @@
+C:\Users\korisnik\Desktop\III GODINA\INFORMACIONI SISTEMI\TransIT\TransIT.Domain\bin\Debug\net8.0\TransIT.Domain.deps.json
+C:\Users\korisnik\Desktop\III GODINA\INFORMACIONI SISTEMI\TransIT\TransIT.Domain\bin\Debug\net8.0\TransIT.Domain.dll
+C:\Users\korisnik\Desktop\III GODINA\INFORMACIONI SISTEMI\TransIT\TransIT.Domain\bin\Debug\net8.0\TransIT.Domain.pdb
+C:\Users\korisnik\Desktop\III GODINA\INFORMACIONI SISTEMI\TransIT\TransIT.Domain\obj\Debug\net8.0\TransIT.Domain.csproj.AssemblyReference.cache
+C:\Users\korisnik\Desktop\III GODINA\INFORMACIONI SISTEMI\TransIT\TransIT.Domain\obj\Debug\net8.0\TransIT.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\korisnik\Desktop\III GODINA\INFORMACIONI SISTEMI\TransIT\TransIT.Domain\obj\Debug\net8.0\TransIT.Domain.AssemblyInfoInputs.cache
+C:\Users\korisnik\Desktop\III GODINA\INFORMACIONI SISTEMI\TransIT\TransIT.Domain\obj\Debug\net8.0\TransIT.Domain.AssemblyInfo.cs
+C:\Users\korisnik\Desktop\III GODINA\INFORMACIONI SISTEMI\TransIT\TransIT.Domain\obj\Debug\net8.0\TransIT.Domain.csproj.CoreCompileInputs.cache
+C:\Users\korisnik\Desktop\III GODINA\INFORMACIONI SISTEMI\TransIT\TransIT.Domain\obj\Debug\net8.0\TransIT.Domain.dll
+C:\Users\korisnik\Desktop\III GODINA\INFORMACIONI SISTEMI\TransIT\TransIT.Domain\obj\Debug\net8.0\refint\TransIT.Domain.dll
+C:\Users\korisnik\Desktop\III GODINA\INFORMACIONI SISTEMI\TransIT\TransIT.Domain\obj\Debug\net8.0\TransIT.Domain.pdb
+C:\Users\korisnik\Desktop\III GODINA\INFORMACIONI SISTEMI\TransIT\TransIT.Domain\obj\Debug\net8.0\ref\TransIT.Domain.dll

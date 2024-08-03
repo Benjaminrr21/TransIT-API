@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "D7RevgTUk+JOTC6srPvdTV6tNHc4/7RzHfDk/e2nrcU=",
+  "Source": "TransIT.API",
+  "BasePath": "_content/TransIT.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

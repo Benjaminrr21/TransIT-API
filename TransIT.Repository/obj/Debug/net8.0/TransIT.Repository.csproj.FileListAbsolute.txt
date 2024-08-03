@@ -1,0 +1,17 @@
+C:\Users\korisnik\Desktop\III GODINA\INFORMACIONI SISTEMI\TransIT\TransIT.Repository\bin\Debug\net8.0\TransIT.Repository.deps.json
+C:\Users\korisnik\Desktop\III GODINA\INFORMACIONI SISTEMI\TransIT\TransIT.Repository\bin\Debug\net8.0\TransIT.Repository.dll
+C:\Users\korisnik\Desktop\III GODINA\INFORMACIONI SISTEMI\TransIT\TransIT.Repository\bin\Debug\net8.0\TransIT.Repository.pdb
+C:\Users\korisnik\Desktop\III GODINA\INFORMACIONI SISTEMI\TransIT\TransIT.Repository\bin\Debug\net8.0\TransIT.Domain.dll
+C:\Users\korisnik\Desktop\III GODINA\INFORMACIONI SISTEMI\TransIT\TransIT.Repository\bin\Debug\net8.0\TransIT.Infrastructure.dll
+C:\Users\korisnik\Desktop\III GODINA\INFORMACIONI SISTEMI\TransIT\TransIT.Repository\bin\Debug\net8.0\TransIT.Domain.pdb
+C:\Users\korisnik\Desktop\III GODINA\INFORMACIONI SISTEMI\TransIT\TransIT.Repository\bin\Debug\net8.0\TransIT.Infrastructure.pdb
+C:\Users\korisnik\Desktop\III GODINA\INFORMACIONI SISTEMI\TransIT\TransIT.Repository\obj\Debug\net8.0\TransIT.Repository.csproj.AssemblyReference.cache
+C:\Users\korisnik\Desktop\III GODINA\INFORMACIONI SISTEMI\TransIT\TransIT.Repository\obj\Debug\net8.0\TransIT.Repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\korisnik\Desktop\III GODINA\INFORMACIONI SISTEMI\TransIT\TransIT.Repository\obj\Debug\net8.0\TransIT.Repository.AssemblyInfoInputs.cache
+C:\Users\korisnik\Desktop\III GODINA\INFORMACIONI SISTEMI\TransIT\TransIT.Repository\obj\Debug\net8.0\TransIT.Repository.AssemblyInfo.cs
+C:\Users\korisnik\Desktop\III GODINA\INFORMACIONI SISTEMI\TransIT\TransIT.Repository\obj\Debug\net8.0\TransIT.Repository.csproj.CoreCompileInputs.cache
+C:\Users\korisnik\Desktop\III GODINA\INFORMACIONI SISTEMI\TransIT\TransIT.Repository\obj\Debug\net8.0\TransIT..83282F48.Up2Date
+C:\Users\korisnik\Desktop\III GODINA\INFORMACIONI SISTEMI\TransIT\TransIT.Repository\obj\Debug\net8.0\TransIT.Repository.dll
+C:\Users\korisnik\Desktop\III GODINA\INFORMACIONI SISTEMI\TransIT\TransIT.Repository\obj\Debug\net8.0\refint\TransIT.Repository.dll
+C:\Users\korisnik\Desktop\III GODINA\INFORMACIONI SISTEMI\TransIT\TransIT.Repository\obj\Debug\net8.0\TransIT.Repository.pdb
+C:\Users\korisnik\Desktop\III GODINA\INFORMACIONI SISTEMI\TransIT\TransIT.Repository\obj\Debug\net8.0\ref\TransIT.Repository.dll

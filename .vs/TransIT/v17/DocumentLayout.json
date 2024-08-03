@@ -1,0 +1,1092 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\korisnik\\Desktop\\III GODINA\\INFORMACIONI SISTEMI\\TransIT\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5E4837F5-3814-444D-BF9E-2240EDB22A5F}|TransIT.API\\TransIT.API.csproj|c:\\users\\korisnik\\desktop\\iii godina\\informacioni sistemi\\transit\\transit.api\\hubs\\chathub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E4837F5-3814-444D-BF9E-2240EDB22A5F}|TransIT.API\\TransIT.API.csproj|solutionrelative:transit.api\\hubs\\chathub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E4837F5-3814-444D-BF9E-2240EDB22A5F}|TransIT.API\\TransIT.API.csproj|c:\\users\\korisnik\\desktop\\iii godina\\informacioni sistemi\\transit\\transit.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E4837F5-3814-444D-BF9E-2240EDB22A5F}|TransIT.API\\TransIT.API.csproj|solutionrelative:transit.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E4837F5-3814-444D-BF9E-2240EDB22A5F}|TransIT.API\\TransIT.API.csproj|c:\\users\\korisnik\\desktop\\iii godina\\informacioni sistemi\\transit\\transit.api\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E4837F5-3814-444D-BF9E-2240EDB22A5F}|TransIT.API\\TransIT.API.csproj|solutionrelative:transit.api\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E4837F5-3814-444D-BF9E-2240EDB22A5F}|TransIT.API\\TransIT.API.csproj|c:\\users\\korisnik\\desktop\\iii godina\\informacioni sistemi\\transit\\transit.api\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E4837F5-3814-444D-BF9E-2240EDB22A5F}|TransIT.API\\TransIT.API.csproj|solutionrelative:transit.api\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E4837F5-3814-444D-BF9E-2240EDB22A5F}|TransIT.API\\TransIT.API.csproj|c:\\users\\korisnik\\desktop\\iii godina\\informacioni sistemi\\transit\\transit.api\\controllers\\packagecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E4837F5-3814-444D-BF9E-2240EDB22A5F}|TransIT.API\\TransIT.API.csproj|solutionrelative:transit.api\\controllers\\packagecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D31AB476-F44C-45B4-BBD5-3060F175745D}|TransIT.Repository\\TransIT.Repository.csproj|c:\\users\\korisnik\\desktop\\iii godina\\informacioni sistemi\\transit\\transit.repository\\packagerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D31AB476-F44C-45B4-BBD5-3060F175745D}|TransIT.Repository\\TransIT.Repository.csproj|solutionrelative:transit.repository\\packagerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0A61CA0-1D13-4E32-8052-A3A03C82638E}|TransIT.Domain\\TransIT.Domain.csproj|c:\\users\\korisnik\\desktop\\iii godina\\informacioni sistemi\\transit\\transit.domain\\interfaces\\ipackagerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0A61CA0-1D13-4E32-8052-A3A03C82638E}|TransIT.Domain\\TransIT.Domain.csproj|solutionrelative:transit.domain\\interfaces\\ipackagerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0A61CA0-1D13-4E32-8052-A3A03C82638E}|TransIT.Domain\\TransIT.Domain.csproj|c:\\users\\korisnik\\desktop\\iii godina\\informacioni sistemi\\transit\\transit.domain\\models\\package.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0A61CA0-1D13-4E32-8052-A3A03C82638E}|TransIT.Domain\\TransIT.Domain.csproj|solutionrelative:transit.domain\\models\\package.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2AD440E-967E-42DE-BA7E-0D8161136086}|TransIT.Application\\TransIT.Application.csproj|c:\\users\\korisnik\\desktop\\iii godina\\informacioni sistemi\\transit\\transit.application\\mappingprofiles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2AD440E-967E-42DE-BA7E-0D8161136086}|TransIT.Application\\TransIT.Application.csproj|solutionrelative:transit.application\\mappingprofiles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2AD440E-967E-42DE-BA7E-0D8161136086}|TransIT.Application\\TransIT.Application.csproj|c:\\users\\korisnik\\desktop\\iii godina\\informacioni sistemi\\transit\\transit.application\\dtos\\packageweightdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2AD440E-967E-42DE-BA7E-0D8161136086}|TransIT.Application\\TransIT.Application.csproj|solutionrelative:transit.application\\dtos\\packageweightdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2AD440E-967E-42DE-BA7E-0D8161136086}|TransIT.Application\\TransIT.Application.csproj|c:\\users\\korisnik\\desktop\\iii godina\\informacioni sistemi\\transit\\transit.application\\dtos\\packagedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2AD440E-967E-42DE-BA7E-0D8161136086}|TransIT.Application\\TransIT.Application.csproj|solutionrelative:transit.application\\dtos\\packagedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E4837F5-3814-444D-BF9E-2240EDB22A5F}|TransIT.API\\TransIT.API.csproj|c:\\users\\korisnik\\desktop\\iii godina\\informacioni sistemi\\transit\\transit.api\\controllers\\facturecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E4837F5-3814-444D-BF9E-2240EDB22A5F}|TransIT.API\\TransIT.API.csproj|solutionrelative:transit.api\\controllers\\facturecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E4837F5-3814-444D-BF9E-2240EDB22A5F}|TransIT.API\\TransIT.API.csproj|c:\\users\\korisnik\\desktop\\iii godina\\informacioni sistemi\\transit\\transit.api\\controllers\\vehiclecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E4837F5-3814-444D-BF9E-2240EDB22A5F}|TransIT.API\\TransIT.API.csproj|solutionrelative:transit.api\\controllers\\vehiclecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2AD440E-967E-42DE-BA7E-0D8161136086}|TransIT.Application\\TransIT.Application.csproj|c:\\users\\korisnik\\desktop\\iii godina\\informacioni sistemi\\transit\\transit.application\\dtos\\facturedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2AD440E-967E-42DE-BA7E-0D8161136086}|TransIT.Application\\TransIT.Application.csproj|solutionrelative:transit.application\\dtos\\facturedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0A61CA0-1D13-4E32-8052-A3A03C82638E}|TransIT.Domain\\TransIT.Domain.csproj|c:\\users\\korisnik\\desktop\\iii godina\\informacioni sistemi\\transit\\transit.domain\\models\\facture.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0A61CA0-1D13-4E32-8052-A3A03C82638E}|TransIT.Domain\\TransIT.Domain.csproj|solutionrelative:transit.domain\\models\\facture.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D31AB476-F44C-45B4-BBD5-3060F175745D}|TransIT.Repository\\TransIT.Repository.csproj|c:\\users\\korisnik\\desktop\\iii godina\\informacioni sistemi\\transit\\transit.repository\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D31AB476-F44C-45B4-BBD5-3060F175745D}|TransIT.Repository\\TransIT.Repository.csproj|solutionrelative:transit.repository\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0A61CA0-1D13-4E32-8052-A3A03C82638E}|TransIT.Domain\\TransIT.Domain.csproj|c:\\users\\korisnik\\desktop\\iii godina\\informacioni sistemi\\transit\\transit.domain\\interfaces\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0A61CA0-1D13-4E32-8052-A3A03C82638E}|TransIT.Domain\\TransIT.Domain.csproj|solutionrelative:transit.domain\\interfaces\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D31AB476-F44C-45B4-BBD5-3060F175745D}|TransIT.Repository\\TransIT.Repository.csproj|c:\\users\\korisnik\\desktop\\iii godina\\informacioni sistemi\\transit\\transit.repository\\facturerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D31AB476-F44C-45B4-BBD5-3060F175745D}|TransIT.Repository\\TransIT.Repository.csproj|solutionrelative:transit.repository\\facturerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0A61CA0-1D13-4E32-8052-A3A03C82638E}|TransIT.Domain\\TransIT.Domain.csproj|c:\\users\\korisnik\\desktop\\iii godina\\informacioni sistemi\\transit\\transit.domain\\interfaces\\ifacturerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0A61CA0-1D13-4E32-8052-A3A03C82638E}|TransIT.Domain\\TransIT.Domain.csproj|solutionrelative:transit.domain\\interfaces\\ifacturerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0A61CA0-1D13-4E32-8052-A3A03C82638E}|TransIT.Domain\\TransIT.Domain.csproj|c:\\users\\korisnik\\desktop\\iii godina\\informacioni sistemi\\transit\\transit.domain\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0A61CA0-1D13-4E32-8052-A3A03C82638E}|TransIT.Domain\\TransIT.Domain.csproj|solutionrelative:transit.domain\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E4837F5-3814-444D-BF9E-2240EDB22A5F}|TransIT.API\\TransIT.API.csproj|c:\\users\\korisnik\\desktop\\iii godina\\informacioni sistemi\\transit\\transit.api\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E4837F5-3814-444D-BF9E-2240EDB22A5F}|TransIT.API\\TransIT.API.csproj|solutionrelative:transit.api\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D31AB476-F44C-45B4-BBD5-3060F175745D}|TransIT.Repository\\TransIT.Repository.csproj|c:\\users\\korisnik\\desktop\\iii godina\\informacioni sistemi\\transit\\transit.repository\\vehiclerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D31AB476-F44C-45B4-BBD5-3060F175745D}|TransIT.Repository\\TransIT.Repository.csproj|solutionrelative:transit.repository\\vehiclerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2AD440E-967E-42DE-BA7E-0D8161136086}|TransIT.Application\\TransIT.Application.csproj|c:\\users\\korisnik\\desktop\\iii godina\\informacioni sistemi\\transit\\transit.application\\dtos\\vehicledto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2AD440E-967E-42DE-BA7E-0D8161136086}|TransIT.Application\\TransIT.Application.csproj|solutionrelative:transit.application\\dtos\\vehicledto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0A61CA0-1D13-4E32-8052-A3A03C82638E}|TransIT.Domain\\TransIT.Domain.csproj|c:\\users\\korisnik\\desktop\\iii godina\\informacioni sistemi\\transit\\transit.domain\\interfaces\\ivehiclerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0A61CA0-1D13-4E32-8052-A3A03C82638E}|TransIT.Domain\\TransIT.Domain.csproj|solutionrelative:transit.domain\\interfaces\\ivehiclerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2AD440E-967E-42DE-BA7E-0D8161136086}|TransIT.Application\\TransIT.Application.csproj|c:\\users\\korisnik\\desktop\\iii godina\\informacioni sistemi\\transit\\transit.application\\dtos\\clientviewdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2AD440E-967E-42DE-BA7E-0D8161136086}|TransIT.Application\\TransIT.Application.csproj|solutionrelative:transit.application\\dtos\\clientviewdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E4837F5-3814-444D-BF9E-2240EDB22A5F}|TransIT.API\\TransIT.API.csproj|c:\\users\\korisnik\\desktop\\iii godina\\informacioni sistemi\\transit\\transit.api\\controllers\\clientcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E4837F5-3814-444D-BF9E-2240EDB22A5F}|TransIT.API\\TransIT.API.csproj|solutionrelative:transit.api\\controllers\\clientcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2AD440E-967E-42DE-BA7E-0D8161136086}|TransIT.Application\\TransIT.Application.csproj|c:\\users\\korisnik\\desktop\\iii godina\\informacioni sistemi\\transit\\transit.application\\dtos\\orderdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2AD440E-967E-42DE-BA7E-0D8161136086}|TransIT.Application\\TransIT.Application.csproj|solutionrelative:transit.application\\dtos\\orderdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D31AB476-F44C-45B4-BBD5-3060F175745D}|TransIT.Repository\\TransIT.Repository.csproj|c:\\users\\korisnik\\desktop\\iii godina\\informacioni sistemi\\transit\\transit.repository\\orderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D31AB476-F44C-45B4-BBD5-3060F175745D}|TransIT.Repository\\TransIT.Repository.csproj|solutionrelative:transit.repository\\orderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D31AB476-F44C-45B4-BBD5-3060F175745D}|TransIT.Repository\\TransIT.Repository.csproj|c:\\users\\korisnik\\desktop\\iii godina\\informacioni sistemi\\transit\\transit.repository\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D31AB476-F44C-45B4-BBD5-3060F175745D}|TransIT.Repository\\TransIT.Repository.csproj|solutionrelative:transit.repository\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0A61CA0-1D13-4E32-8052-A3A03C82638E}|TransIT.Domain\\TransIT.Domain.csproj|c:\\users\\korisnik\\desktop\\iii godina\\informacioni sistemi\\transit\\transit.domain\\interfaces\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0A61CA0-1D13-4E32-8052-A3A03C82638E}|TransIT.Domain\\TransIT.Domain.csproj|solutionrelative:transit.domain\\interfaces\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D31AB476-F44C-45B4-BBD5-3060F175745D}|TransIT.Repository\\TransIT.Repository.csproj|c:\\users\\korisnik\\desktop\\iii godina\\informacioni sistemi\\transit\\transit.repository\\clientrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D31AB476-F44C-45B4-BBD5-3060F175745D}|TransIT.Repository\\TransIT.Repository.csproj|solutionrelative:transit.repository\\clientrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0A61CA0-1D13-4E32-8052-A3A03C82638E}|TransIT.Domain\\TransIT.Domain.csproj|c:\\users\\korisnik\\desktop\\iii godina\\informacioni sistemi\\transit\\transit.domain\\interfaces\\iorderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0A61CA0-1D13-4E32-8052-A3A03C82638E}|TransIT.Domain\\TransIT.Domain.csproj|solutionrelative:transit.domain\\interfaces\\iorderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2AD440E-967E-42DE-BA7E-0D8161136086}|TransIT.Application\\TransIT.Application.csproj|c:\\users\\korisnik\\desktop\\iii godina\\informacioni sistemi\\transit\\transit.application\\dtos\\vieworderdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2AD440E-967E-42DE-BA7E-0D8161136086}|TransIT.Application\\TransIT.Application.csproj|solutionrelative:transit.application\\dtos\\vieworderdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2AD440E-967E-42DE-BA7E-0D8161136086}|TransIT.Application\\TransIT.Application.csproj|c:\\users\\korisnik\\desktop\\iii godina\\informacioni sistemi\\transit\\transit.application\\dtos\\orderofclientdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2AD440E-967E-42DE-BA7E-0D8161136086}|TransIT.Application\\TransIT.Application.csproj|solutionrelative:transit.application\\dtos\\orderofclientdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0A61CA0-1D13-4E32-8052-A3A03C82638E}|TransIT.Domain\\TransIT.Domain.csproj|c:\\users\\korisnik\\desktop\\iii godina\\informacioni sistemi\\transit\\transit.domain\\models\\users\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0A61CA0-1D13-4E32-8052-A3A03C82638E}|TransIT.Domain\\TransIT.Domain.csproj|solutionrelative:transit.domain\\models\\users\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2AD440E-967E-42DE-BA7E-0D8161136086}|TransIT.Application\\TransIT.Application.csproj|c:\\users\\korisnik\\desktop\\iii godina\\informacioni sistemi\\transit\\transit.application\\dtos\\packageinorderdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2AD440E-967E-42DE-BA7E-0D8161136086}|TransIT.Application\\TransIT.Application.csproj|solutionrelative:transit.application\\dtos\\packageinorderdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0A61CA0-1D13-4E32-8052-A3A03C82638E}|TransIT.Domain\\TransIT.Domain.csproj|c:\\users\\korisnik\\desktop\\iii godina\\informacioni sistemi\\transit\\transit.domain\\interfaces\\iclientrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0A61CA0-1D13-4E32-8052-A3A03C82638E}|TransIT.Domain\\TransIT.Domain.csproj|solutionrelative:transit.domain\\interfaces\\iclientrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9004671-8FDA-4488-B8FA-EF0B09822CB1}|TransIT.Infrastructure\\TransIT.Infrastructure.csproj|c:\\users\\korisnik\\desktop\\iii godina\\informacioni sistemi\\transit\\transit.infrastructure\\transit.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{D9004671-8FDA-4488-B8FA-EF0B09822CB1}|TransIT.Infrastructure\\TransIT.Infrastructure.csproj|solutionrelative:transit.infrastructure\\transit.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0A61CA0-1D13-4E32-8052-A3A03C82638E}|TransIT.Domain\\TransIT.Domain.csproj|c:\\users\\korisnik\\desktop\\iii godina\\informacioni sistemi\\transit\\transit.domain\\models\\item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0A61CA0-1D13-4E32-8052-A3A03C82638E}|TransIT.Domain\\TransIT.Domain.csproj|solutionrelative:transit.domain\\models\\item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2AD440E-967E-42DE-BA7E-0D8161136086}|TransIT.Application\\TransIT.Application.csproj|c:\\users\\korisnik\\desktop\\iii godina\\informacioni sistemi\\transit\\transit.application\\dtos\\loginemployeedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2AD440E-967E-42DE-BA7E-0D8161136086}|TransIT.Application\\TransIT.Application.csproj|solutionrelative:transit.application\\dtos\\loginemployeedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E4837F5-3814-444D-BF9E-2240EDB22A5F}|TransIT.API\\TransIT.API.csproj|c:\\users\\korisnik\\desktop\\iii godina\\informacioni sistemi\\transit\\transit.api\\controllers\\itemcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E4837F5-3814-444D-BF9E-2240EDB22A5F}|TransIT.API\\TransIT.API.csproj|solutionrelative:transit.api\\controllers\\itemcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2AD440E-967E-42DE-BA7E-0D8161136086}|TransIT.Application\\TransIT.Application.csproj|c:\\users\\korisnik\\desktop\\iii godina\\informacioni sistemi\\transit\\transit.application\\transit.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{C2AD440E-967E-42DE-BA7E-0D8161136086}|TransIT.Application\\TransIT.Application.csproj|solutionrelative:transit.application\\transit.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E4837F5-3814-444D-BF9E-2240EDB22A5F}|TransIT.API\\TransIT.API.csproj|c:\\users\\korisnik\\desktop\\iii godina\\informacioni sistemi\\transit\\transit.api\\transit.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{5E4837F5-3814-444D-BF9E-2240EDB22A5F}|TransIT.API\\TransIT.API.csproj|solutionrelative:transit.api\\transit.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2AD440E-967E-42DE-BA7E-0D8161136086}|TransIT.Application\\TransIT.Application.csproj|c:\\users\\korisnik\\desktop\\iii godina\\informacioni sistemi\\transit\\transit.application\\dtos\\registerclientdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2AD440E-967E-42DE-BA7E-0D8161136086}|TransIT.Application\\TransIT.Application.csproj|solutionrelative:transit.application\\dtos\\registerclientdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2AD440E-967E-42DE-BA7E-0D8161136086}|TransIT.Application\\TransIT.Application.csproj|c:\\users\\korisnik\\desktop\\iii godina\\informacioni sistemi\\transit\\transit.application\\dtos\\loginclientdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2AD440E-967E-42DE-BA7E-0D8161136086}|TransIT.Application\\TransIT.Application.csproj|solutionrelative:transit.application\\dtos\\loginclientdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2AD440E-967E-42DE-BA7E-0D8161136086}|TransIT.Application\\TransIT.Application.csproj|c:\\users\\korisnik\\desktop\\iii godina\\informacioni sistemi\\transit\\transit.application\\dtos\\registeremployeedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2AD440E-967E-42DE-BA7E-0D8161136086}|TransIT.Application\\TransIT.Application.csproj|solutionrelative:transit.application\\dtos\\registeremployeedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0A61CA0-1D13-4E32-8052-A3A03C82638E}|TransIT.Domain\\TransIT.Domain.csproj|c:\\users\\korisnik\\desktop\\iii godina\\informacioni sistemi\\transit\\transit.domain\\models\\users\\dispatcher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0A61CA0-1D13-4E32-8052-A3A03C82638E}|TransIT.Domain\\TransIT.Domain.csproj|solutionrelative:transit.domain\\models\\users\\dispatcher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0A61CA0-1D13-4E32-8052-A3A03C82638E}|TransIT.Domain\\TransIT.Domain.csproj|c:\\users\\korisnik\\desktop\\iii godina\\informacioni sistemi\\transit\\transit.domain\\transit.domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{A0A61CA0-1D13-4E32-8052-A3A03C82638E}|TransIT.Domain\\TransIT.Domain.csproj|solutionrelative:transit.domain\\transit.domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9004671-8FDA-4488-B8FA-EF0B09822CB1}|TransIT.Infrastructure\\TransIT.Infrastructure.csproj|c:\\users\\korisnik\\desktop\\iii godina\\informacioni sistemi\\transit\\transit.infrastructure\\transitcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9004671-8FDA-4488-B8FA-EF0B09822CB1}|TransIT.Infrastructure\\TransIT.Infrastructure.csproj|solutionrelative:transit.infrastructure\\transitcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0A61CA0-1D13-4E32-8052-A3A03C82638E}|TransIT.Domain\\TransIT.Domain.csproj|c:\\users\\korisnik\\desktop\\iii godina\\informacioni sistemi\\transit\\transit.domain\\models\\users\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0A61CA0-1D13-4E32-8052-A3A03C82638E}|TransIT.Domain\\TransIT.Domain.csproj|solutionrelative:transit.domain\\models\\users\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E4837F5-3814-444D-BF9E-2240EDB22A5F}|TransIT.API\\TransIT.API.csproj|c:\\users\\korisnik\\desktop\\iii godina\\informacioni sistemi\\transit\\transit.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{5E4837F5-3814-444D-BF9E-2240EDB22A5F}|TransIT.API\\TransIT.API.csproj|solutionrelative:transit.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0A61CA0-1D13-4E32-8052-A3A03C82638E}|TransIT.Domain\\TransIT.Domain.csproj|c:\\users\\korisnik\\desktop\\iii godina\\informacioni sistemi\\transit\\transit.domain\\models\\priceslist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0A61CA0-1D13-4E32-8052-A3A03C82638E}|TransIT.Domain\\TransIT.Domain.csproj|solutionrelative:transit.domain\\models\\priceslist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0A61CA0-1D13-4E32-8052-A3A03C82638E}|TransIT.Domain\\TransIT.Domain.csproj|c:\\users\\korisnik\\desktop\\iii godina\\informacioni sistemi\\transit\\transit.domain\\models\\travelcost.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0A61CA0-1D13-4E32-8052-A3A03C82638E}|TransIT.Domain\\TransIT.Domain.csproj|solutionrelative:transit.domain\\models\\travelcost.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0A61CA0-1D13-4E32-8052-A3A03C82638E}|TransIT.Domain\\TransIT.Domain.csproj|c:\\users\\korisnik\\desktop\\iii godina\\informacioni sistemi\\transit\\transit.domain\\models\\users\\manager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0A61CA0-1D13-4E32-8052-A3A03C82638E}|TransIT.Domain\\TransIT.Domain.csproj|solutionrelative:transit.domain\\models\\users\\manager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0A61CA0-1D13-4E32-8052-A3A03C82638E}|TransIT.Domain\\TransIT.Domain.csproj|c:\\users\\korisnik\\desktop\\iii godina\\informacioni sistemi\\transit\\transit.domain\\models\\users\\driver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0A61CA0-1D13-4E32-8052-A3A03C82638E}|TransIT.Domain\\TransIT.Domain.csproj|solutionrelative:transit.domain\\models\\users\\driver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0A61CA0-1D13-4E32-8052-A3A03C82638E}|TransIT.Domain\\TransIT.Domain.csproj|c:\\users\\korisnik\\desktop\\iii godina\\informacioni sistemi\\transit\\transit.domain\\models\\transport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0A61CA0-1D13-4E32-8052-A3A03C82638E}|TransIT.Domain\\TransIT.Domain.csproj|solutionrelative:transit.domain\\models\\transport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9004671-8FDA-4488-B8FA-EF0B09822CB1}|TransIT.Infrastructure\\TransIT.Infrastructure.csproj|c:\\users\\korisnik\\desktop\\iii godina\\informacioni sistemi\\transit\\transit.infrastructure\\migrations\\20240726123123_employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9004671-8FDA-4488-B8FA-EF0B09822CB1}|TransIT.Infrastructure\\TransIT.Infrastructure.csproj|solutionrelative:transit.infrastructure\\migrations\\20240726123123_employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9004671-8FDA-4488-B8FA-EF0B09822CB1}|TransIT.Infrastructure\\TransIT.Infrastructure.csproj|c:\\users\\korisnik\\desktop\\iii godina\\informacioni sistemi\\transit\\transit.infrastructure\\migrations\\20240725142957_prices-list.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9004671-8FDA-4488-B8FA-EF0B09822CB1}|TransIT.Infrastructure\\TransIT.Infrastructure.csproj|solutionrelative:transit.infrastructure\\migrations\\20240725142957_prices-list.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9004671-8FDA-4488-B8FA-EF0B09822CB1}|TransIT.Infrastructure\\TransIT.Infrastructure.csproj|c:\\users\\korisnik\\desktop\\iii godina\\informacioni sistemi\\transit\\transit.infrastructure\\migrations\\20240725142512_order-package.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9004671-8FDA-4488-B8FA-EF0B09822CB1}|TransIT.Infrastructure\\TransIT.Infrastructure.csproj|solutionrelative:transit.infrastructure\\migrations\\20240725142512_order-package.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9004671-8FDA-4488-B8FA-EF0B09822CB1}|TransIT.Infrastructure\\TransIT.Infrastructure.csproj|c:\\users\\korisnik\\desktop\\iii godina\\informacioni sistemi\\transit\\transit.infrastructure\\migrations\\20240725142253_models-added.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9004671-8FDA-4488-B8FA-EF0B09822CB1}|TransIT.Infrastructure\\TransIT.Infrastructure.csproj|solutionrelative:transit.infrastructure\\migrations\\20240725142253_models-added.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9004671-8FDA-4488-B8FA-EF0B09822CB1}|TransIT.Infrastructure\\TransIT.Infrastructure.csproj|c:\\users\\korisnik\\desktop\\iii godina\\informacioni sistemi\\transit\\transit.infrastructure\\migrations\\20240725141939_models.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9004671-8FDA-4488-B8FA-EF0B09822CB1}|TransIT.Infrastructure\\TransIT.Infrastructure.csproj|solutionrelative:transit.infrastructure\\migrations\\20240725141939_models.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9004671-8FDA-4488-B8FA-EF0B09822CB1}|TransIT.Infrastructure\\TransIT.Infrastructure.csproj|c:\\users\\korisnik\\desktop\\iii godina\\informacioni sistemi\\transit\\transit.infrastructure\\migrations\\20240725135625_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9004671-8FDA-4488-B8FA-EF0B09822CB1}|TransIT.Infrastructure\\TransIT.Infrastructure.csproj|solutionrelative:transit.infrastructure\\migrations\\20240725135625_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9004671-8FDA-4488-B8FA-EF0B09822CB1}|TransIT.Infrastructure\\TransIT.Infrastructure.csproj|c:\\users\\korisnik\\desktop\\iii godina\\informacioni sistemi\\transit\\transit.infrastructure\\migrations\\20240730212215_item2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9004671-8FDA-4488-B8FA-EF0B09822CB1}|TransIT.Infrastructure\\TransIT.Infrastructure.csproj|solutionrelative:transit.infrastructure\\migrations\\20240730212215_item2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9004671-8FDA-4488-B8FA-EF0B09822CB1}|TransIT.Infrastructure\\TransIT.Infrastructure.csproj|c:\\users\\korisnik\\desktop\\iii godina\\informacioni sistemi\\transit\\transit.infrastructure\\migrations\\20240730211913_item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9004671-8FDA-4488-B8FA-EF0B09822CB1}|TransIT.Infrastructure\\TransIT.Infrastructure.csproj|solutionrelative:transit.infrastructure\\migrations\\20240730211913_item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9004671-8FDA-4488-B8FA-EF0B09822CB1}|TransIT.Infrastructure\\TransIT.Infrastructure.csproj|c:\\users\\korisnik\\desktop\\iii godina\\informacioni sistemi\\transit\\transit.infrastructure\\migrations\\20240731122906_package-details.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9004671-8FDA-4488-B8FA-EF0B09822CB1}|TransIT.Infrastructure\\TransIT.Infrastructure.csproj|solutionrelative:transit.infrastructure\\migrations\\20240731122906_package-details.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9004671-8FDA-4488-B8FA-EF0B09822CB1}|TransIT.Infrastructure\\TransIT.Infrastructure.csproj|c:\\users\\korisnik\\desktop\\iii godina\\informacioni sistemi\\transit\\transit.infrastructure\\migrations\\20240803122200_facture-order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9004671-8FDA-4488-B8FA-EF0B09822CB1}|TransIT.Infrastructure\\TransIT.Infrastructure.csproj|solutionrelative:transit.infrastructure\\migrations\\20240803122200_facture-order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 163,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\korisnik\\Desktop\\III GODINA\\INFORMACIONI SISTEMI\\TransIT\\TransIT.API\\Program.cs",
+              "RelativeDocumentMoniker": "TransIT.API\\Program.cs",
+              "ToolTip": "C:\\Users\\korisnik\\Desktop\\III GODINA\\INFORMACIONI SISTEMI\\TransIT\\TransIT.API\\Program.cs",
+              "RelativeToolTip": "TransIT.API\\Program.cs",
+              "ViewState": "AQIAACcAAAAAAAAAAAAkwDYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-17T16:58:12.591Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ChatHub.cs",
+              "DocumentMoniker": "C:\\Users\\korisnik\\Desktop\\III GODINA\\INFORMACIONI SISTEMI\\TransIT\\TransIT.API\\Hubs\\ChatHub.cs",
+              "RelativeDocumentMoniker": "TransIT.API\\Hubs\\ChatHub.cs",
+              "ToolTip": "C:\\Users\\korisnik\\Desktop\\III GODINA\\INFORMACIONI SISTEMI\\TransIT\\TransIT.API\\Hubs\\ChatHub.cs",
+              "RelativeToolTip": "TransIT.API\\Hubs\\ChatHub.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-03T16:00:06.781Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "PackageRepository.cs",
+              "DocumentMoniker": "C:\\Users\\korisnik\\Desktop\\III GODINA\\INFORMACIONI SISTEMI\\TransIT\\TransIT.Repository\\PackageRepository.cs",
+              "RelativeDocumentMoniker": "TransIT.Repository\\PackageRepository.cs",
+              "ToolTip": "C:\\Users\\korisnik\\Desktop\\III GODINA\\INFORMACIONI SISTEMI\\TransIT\\TransIT.Repository\\PackageRepository.cs",
+              "RelativeToolTip": "TransIT.Repository\\PackageRepository.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAAABsAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-31T12:21:53.941Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PackageController.cs",
+              "DocumentMoniker": "C:\\Users\\korisnik\\Desktop\\III GODINA\\INFORMACIONI SISTEMI\\TransIT\\TransIT.API\\Controllers\\PackageController.cs",
+              "RelativeDocumentMoniker": "TransIT.API\\Controllers\\PackageController.cs",
+              "ToolTip": "C:\\Users\\korisnik\\Desktop\\III GODINA\\INFORMACIONI SISTEMI\\TransIT\\TransIT.API\\Controllers\\PackageController.cs",
+              "RelativeToolTip": "TransIT.API\\Controllers\\PackageController.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAAwBwAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-31T12:20:53.756Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "PackageWeightDTO.cs",
+              "DocumentMoniker": "C:\\Users\\korisnik\\Desktop\\III GODINA\\INFORMACIONI SISTEMI\\TransIT\\TransIT.Application\\DTOs\\PackageWeightDTO.cs",
+              "RelativeDocumentMoniker": "TransIT.Application\\DTOs\\PackageWeightDTO.cs",
+              "ToolTip": "C:\\Users\\korisnik\\Desktop\\III GODINA\\INFORMACIONI SISTEMI\\TransIT\\TransIT.Application\\DTOs\\PackageWeightDTO.cs",
+              "RelativeToolTip": "TransIT.Application\\DTOs\\PackageWeightDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-03T12:35:32.073Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\korisnik\\Desktop\\III GODINA\\INFORMACIONI SISTEMI\\TransIT\\TransIT.API\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "TransIT.API\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\korisnik\\Desktop\\III GODINA\\INFORMACIONI SISTEMI\\TransIT\\TransIT.API\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "TransIT.API\\Controllers\\AuthController.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAIA6wCYAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-26T12:09:42.023Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AuthService.cs",
+              "DocumentMoniker": "C:\\Users\\korisnik\\Desktop\\III GODINA\\INFORMACIONI SISTEMI\\TransIT\\TransIT.API\\Services\\AuthService.cs",
+              "RelativeDocumentMoniker": "TransIT.API\\Services\\AuthService.cs",
+              "ToolTip": "C:\\Users\\korisnik\\Desktop\\III GODINA\\INFORMACIONI SISTEMI\\TransIT\\TransIT.API\\Services\\AuthService.cs",
+              "RelativeToolTip": "TransIT.API\\Services\\AuthService.cs",
+              "ViewState": "AQIAACkAAAAAAAAAAAAgwD0AAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-26T12:24:57.371Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IPackageRepository.cs",
+              "DocumentMoniker": "C:\\Users\\korisnik\\Desktop\\III GODINA\\INFORMACIONI SISTEMI\\TransIT\\TransIT.Domain\\Interfaces\\IPackageRepository.cs",
+              "RelativeDocumentMoniker": "TransIT.Domain\\Interfaces\\IPackageRepository.cs",
+              "ToolTip": "C:\\Users\\korisnik\\Desktop\\III GODINA\\INFORMACIONI SISTEMI\\TransIT\\TransIT.Domain\\Interfaces\\IPackageRepository.cs",
+              "RelativeToolTip": "TransIT.Domain\\Interfaces\\IPackageRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAkAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-31T12:21:09.64Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "MappingProfiles.cs",
+              "DocumentMoniker": "C:\\Users\\korisnik\\Desktop\\III GODINA\\INFORMACIONI SISTEMI\\TransIT\\TransIT.Application\\MappingProfiles.cs",
+              "RelativeDocumentMoniker": "TransIT.Application\\MappingProfiles.cs",
+              "ToolTip": "C:\\Users\\korisnik\\Desktop\\III GODINA\\INFORMACIONI SISTEMI\\TransIT\\TransIT.Application\\MappingProfiles.cs",
+              "RelativeToolTip": "TransIT.Application\\MappingProfiles.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABcAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-26T12:20:59.436Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Package.cs",
+              "DocumentMoniker": "C:\\Users\\korisnik\\Desktop\\III GODINA\\INFORMACIONI SISTEMI\\TransIT\\TransIT.Domain\\Models\\Package.cs",
+              "RelativeDocumentMoniker": "TransIT.Domain\\Models\\Package.cs",
+              "ToolTip": "C:\\Users\\korisnik\\Desktop\\III GODINA\\INFORMACIONI SISTEMI\\TransIT\\TransIT.Domain\\Models\\Package.cs",
+              "RelativeToolTip": "TransIT.Domain\\Models\\Package.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABAAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-25T14:04:38.56Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "PackageDTO.cs",
+              "DocumentMoniker": "C:\\Users\\korisnik\\Desktop\\III GODINA\\INFORMACIONI SISTEMI\\TransIT\\TransIT.Application\\DTOs\\PackageDTO.cs",
+              "RelativeDocumentMoniker": "TransIT.Application\\DTOs\\PackageDTO.cs",
+              "ToolTip": "C:\\Users\\korisnik\\Desktop\\III GODINA\\INFORMACIONI SISTEMI\\TransIT\\TransIT.Application\\DTOs\\PackageDTO.cs",
+              "RelativeToolTip": "TransIT.Application\\DTOs\\PackageDTO.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAA8AAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-31T12:18:54.256Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 65,
+              "Title": "20240803122200_facture-order.cs",
+              "DocumentMoniker": "C:\\Users\\korisnik\\Desktop\\III GODINA\\INFORMACIONI SISTEMI\\TransIT\\TransIT.Infrastructure\\Migrations\\20240803122200_facture-order.cs",
+              "RelativeDocumentMoniker": "TransIT.Infrastructure\\Migrations\\20240803122200_facture-order.cs",
+              "ToolTip": "C:\\Users\\korisnik\\Desktop\\III GODINA\\INFORMACIONI SISTEMI\\TransIT\\TransIT.Infrastructure\\Migrations\\20240803122200_facture-order.cs",
+              "RelativeToolTip": "TransIT.Infrastructure\\Migrations\\20240803122200_facture-order.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAQwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-03T12:22:00.899Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "VehicleController.cs",
+              "DocumentMoniker": "C:\\Users\\korisnik\\Desktop\\III GODINA\\INFORMACIONI SISTEMI\\TransIT\\TransIT.API\\Controllers\\VehicleController.cs",
+              "RelativeDocumentMoniker": "TransIT.API\\Controllers\\VehicleController.cs",
+              "ToolTip": "C:\\Users\\korisnik\\Desktop\\III GODINA\\INFORMACIONI SISTEMI\\TransIT\\TransIT.API\\Controllers\\VehicleController.cs",
+              "RelativeToolTip": "TransIT.API\\Controllers\\VehicleController.cs",
+              "ViewState": "AQIAACAAAAAAAAAAAAAgwCgAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-01T21:45:40.836Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "FactureController.cs",
+              "DocumentMoniker": "C:\\Users\\korisnik\\Desktop\\III GODINA\\INFORMACIONI SISTEMI\\TransIT\\TransIT.API\\Controllers\\FactureController.cs",
+              "RelativeDocumentMoniker": "TransIT.API\\Controllers\\FactureController.cs",
+              "ToolTip": "C:\\Users\\korisnik\\Desktop\\III GODINA\\INFORMACIONI SISTEMI\\TransIT\\TransIT.API\\Controllers\\FactureController.cs",
+              "RelativeToolTip": "TransIT.API\\Controllers\\FactureController.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAAwBkAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-03T12:24:25.601Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Facture.cs",
+              "DocumentMoniker": "C:\\Users\\korisnik\\Desktop\\III GODINA\\INFORMACIONI SISTEMI\\TransIT\\TransIT.Domain\\Models\\Facture.cs",
+              "RelativeDocumentMoniker": "TransIT.Domain\\Models\\Facture.cs",
+              "ToolTip": "C:\\Users\\korisnik\\Desktop\\III GODINA\\INFORMACIONI SISTEMI\\TransIT\\TransIT.Domain\\Models\\Facture.cs",
+              "RelativeToolTip": "TransIT.Domain\\Models\\Facture.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAsAAABCAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-25T14:12:58.579Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "FactureDTO.cs",
+              "DocumentMoniker": "C:\\Users\\korisnik\\Desktop\\III GODINA\\INFORMACIONI SISTEMI\\TransIT\\TransIT.Application\\DTOs\\FactureDTO.cs",
+              "RelativeDocumentMoniker": "TransIT.Application\\DTOs\\FactureDTO.cs",
+              "ToolTip": "C:\\Users\\korisnik\\Desktop\\III GODINA\\INFORMACIONI SISTEMI\\TransIT\\TransIT.Application\\DTOs\\FactureDTO.cs",
+              "RelativeToolTip": "TransIT.Application\\DTOs\\FactureDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-03T12:26:58.57Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "IFactureRepository.cs",
+              "DocumentMoniker": "C:\\Users\\korisnik\\Desktop\\III GODINA\\INFORMACIONI SISTEMI\\TransIT\\TransIT.Domain\\Interfaces\\IFactureRepository.cs",
+              "RelativeDocumentMoniker": "TransIT.Domain\\Interfaces\\IFactureRepository.cs",
+              "ToolTip": "C:\\Users\\korisnik\\Desktop\\III GODINA\\INFORMACIONI SISTEMI\\TransIT\\TransIT.Domain\\Interfaces\\IFactureRepository.cs",
+              "RelativeToolTip": "TransIT.Domain\\Interfaces\\IFactureRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAA+AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-03T12:22:38.438Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "FactureRepository.cs",
+              "DocumentMoniker": "C:\\Users\\korisnik\\Desktop\\III GODINA\\INFORMACIONI SISTEMI\\TransIT\\TransIT.Repository\\FactureRepository.cs",
+              "RelativeDocumentMoniker": "TransIT.Repository\\FactureRepository.cs",
+              "ToolTip": "C:\\Users\\korisnik\\Desktop\\III GODINA\\INFORMACIONI SISTEMI\\TransIT\\TransIT.Repository\\FactureRepository.cs",
+              "RelativeToolTip": "TransIT.Repository\\FactureRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAABIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-03T12:23:04.408Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "IUnitOfWork.cs",
+              "DocumentMoniker": "C:\\Users\\korisnik\\Desktop\\III GODINA\\INFORMACIONI SISTEMI\\TransIT\\TransIT.Domain\\Interfaces\\IUnitOfWork.cs",
+              "RelativeDocumentMoniker": "TransIT.Domain\\Interfaces\\IUnitOfWork.cs",
+              "ToolTip": "C:\\Users\\korisnik\\Desktop\\III GODINA\\INFORMACIONI SISTEMI\\TransIT\\TransIT.Domain\\Interfaces\\IUnitOfWork.cs",
+              "RelativeToolTip": "TransIT.Domain\\Interfaces\\IUnitOfWork.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-31T17:25:48.359Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "UnitOfWork.cs",
+              "DocumentMoniker": "C:\\Users\\korisnik\\Desktop\\III GODINA\\INFORMACIONI SISTEMI\\TransIT\\TransIT.Repository\\UnitOfWork.cs",
+              "RelativeDocumentMoniker": "TransIT.Repository\\UnitOfWork.cs",
+              "ToolTip": "C:\\Users\\korisnik\\Desktop\\III GODINA\\INFORMACIONI SISTEMI\\TransIT\\TransIT.Repository\\UnitOfWork.cs",
+              "RelativeToolTip": "TransIT.Repository\\UnitOfWork.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAYwB8AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-31T17:25:29.05Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "OrderController.cs",
+              "DocumentMoniker": "C:\\Users\\korisnik\\Desktop\\III GODINA\\INFORMACIONI SISTEMI\\TransIT\\TransIT.API\\Controllers\\OrderController.cs",
+              "RelativeDocumentMoniker": "TransIT.API\\Controllers\\OrderController.cs",
+              "ToolTip": "C:\\Users\\korisnik\\Desktop\\III GODINA\\INFORMACIONI SISTEMI\\TransIT\\TransIT.API\\Controllers\\OrderController.cs",
+              "RelativeToolTip": "TransIT.API\\Controllers\\OrderController.cs",
+              "ViewState": "AQIAACQAAAAAAAAAAAAYwCUAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-28T10:49:33.174Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Order.cs",
+              "DocumentMoniker": "C:\\Users\\korisnik\\Desktop\\III GODINA\\INFORMACIONI SISTEMI\\TransIT\\TransIT.Domain\\Models\\Order.cs",
+              "RelativeDocumentMoniker": "TransIT.Domain\\Models\\Order.cs",
+              "ToolTip": "C:\\Users\\korisnik\\Desktop\\III GODINA\\INFORMACIONI SISTEMI\\TransIT\\TransIT.Domain\\Models\\Order.cs",
+              "RelativeToolTip": "TransIT.Domain\\Models\\Order.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAqwA8AAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-25T14:01:40.279Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "VehicleRepository.cs",
+              "DocumentMoniker": "C:\\Users\\korisnik\\Desktop\\III GODINA\\INFORMACIONI SISTEMI\\TransIT\\TransIT.Repository\\VehicleRepository.cs",
+              "RelativeDocumentMoniker": "TransIT.Repository\\VehicleRepository.cs",
+              "ToolTip": "C:\\Users\\korisnik\\Desktop\\III GODINA\\INFORMACIONI SISTEMI\\TransIT\\TransIT.Repository\\VehicleRepository.cs",
+              "RelativeToolTip": "TransIT.Repository\\VehicleRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-01T21:45:00.09Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "IVehicleRepository.cs",
+              "DocumentMoniker": "C:\\Users\\korisnik\\Desktop\\III GODINA\\INFORMACIONI SISTEMI\\TransIT\\TransIT.Domain\\Interfaces\\IVehicleRepository.cs",
+              "RelativeDocumentMoniker": "TransIT.Domain\\Interfaces\\IVehicleRepository.cs",
+              "ToolTip": "C:\\Users\\korisnik\\Desktop\\III GODINA\\INFORMACIONI SISTEMI\\TransIT\\TransIT.Domain\\Interfaces\\IVehicleRepository.cs",
+              "RelativeToolTip": "TransIT.Domain\\Interfaces\\IVehicleRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-01T21:44:13.146Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "VehicleDTO.cs",
+              "DocumentMoniker": "C:\\Users\\korisnik\\Desktop\\III GODINA\\INFORMACIONI SISTEMI\\TransIT\\TransIT.Application\\DTOs\\VehicleDTO.cs",
+              "RelativeDocumentMoniker": "TransIT.Application\\DTOs\\VehicleDTO.cs",
+              "ToolTip": "C:\\Users\\korisnik\\Desktop\\III GODINA\\INFORMACIONI SISTEMI\\TransIT\\TransIT.Application\\DTOs\\VehicleDTO.cs",
+              "RelativeToolTip": "TransIT.Application\\DTOs\\VehicleDTO.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAA0AAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-02T14:15:08.897Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "IRepository.cs",
+              "DocumentMoniker": "C:\\Users\\korisnik\\Desktop\\III GODINA\\INFORMACIONI SISTEMI\\TransIT\\TransIT.Domain\\Interfaces\\IRepository.cs",
+              "RelativeDocumentMoniker": "TransIT.Domain\\Interfaces\\IRepository.cs",
+              "ToolTip": "C:\\Users\\korisnik\\Desktop\\III GODINA\\INFORMACIONI SISTEMI\\TransIT\\TransIT.Domain\\Interfaces\\IRepository.cs",
+              "RelativeToolTip": "TransIT.Domain\\Interfaces\\IRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwA4AAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-26T16:14:35.037Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "OrderDTO.cs",
+              "DocumentMoniker": "C:\\Users\\korisnik\\Desktop\\III GODINA\\INFORMACIONI SISTEMI\\TransIT\\TransIT.Application\\DTOs\\OrderDTO.cs",
+              "RelativeDocumentMoniker": "TransIT.Application\\DTOs\\OrderDTO.cs",
+              "ToolTip": "C:\\Users\\korisnik\\Desktop\\III GODINA\\INFORMACIONI SISTEMI\\TransIT\\TransIT.Application\\DTOs\\OrderDTO.cs",
+              "RelativeToolTip": "TransIT.Application\\DTOs\\OrderDTO.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA8AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-30T21:00:26.258Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "ClientController.cs",
+              "DocumentMoniker": "C:\\Users\\korisnik\\Desktop\\III GODINA\\INFORMACIONI SISTEMI\\TransIT\\TransIT.API\\Controllers\\ClientController.cs",
+              "RelativeDocumentMoniker": "TransIT.API\\Controllers\\ClientController.cs",
+              "ToolTip": "C:\\Users\\korisnik\\Desktop\\III GODINA\\INFORMACIONI SISTEMI\\TransIT\\TransIT.API\\Controllers\\ClientController.cs",
+              "RelativeToolTip": "TransIT.API\\Controllers\\ClientController.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAwB4AAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-31T17:02:00.466Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "ClientViewDTO.cs",
+              "DocumentMoniker": "C:\\Users\\korisnik\\Desktop\\III GODINA\\INFORMACIONI SISTEMI\\TransIT\\TransIT.Application\\DTOs\\ClientViewDTO.cs",
+              "RelativeDocumentMoniker": "TransIT.Application\\DTOs\\ClientViewDTO.cs",
+              "ToolTip": "C:\\Users\\korisnik\\Desktop\\III GODINA\\INFORMACIONI SISTEMI\\TransIT\\TransIT.Application\\DTOs\\ClientViewDTO.cs",
+              "RelativeToolTip": "TransIT.Application\\DTOs\\ClientViewDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAsAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-31T14:29:32.64Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "IOrderRepository.cs",
+              "DocumentMoniker": "C:\\Users\\korisnik\\Desktop\\III GODINA\\INFORMACIONI SISTEMI\\TransIT\\TransIT.Domain\\Interfaces\\IOrderRepository.cs",
+              "RelativeDocumentMoniker": "TransIT.Domain\\Interfaces\\IOrderRepository.cs",
+              "ToolTip": "C:\\Users\\korisnik\\Desktop\\III GODINA\\INFORMACIONI SISTEMI\\TransIT\\TransIT.Domain\\Interfaces\\IOrderRepository.cs",
+              "RelativeToolTip": "TransIT.Domain\\Interfaces\\IOrderRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAkAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-28T10:50:07.97Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "OrderRepository.cs",
+              "DocumentMoniker": "C:\\Users\\korisnik\\Desktop\\III GODINA\\INFORMACIONI SISTEMI\\TransIT\\TransIT.Repository\\OrderRepository.cs",
+              "RelativeDocumentMoniker": "TransIT.Repository\\OrderRepository.cs",
+              "ToolTip": "C:\\Users\\korisnik\\Desktop\\III GODINA\\INFORMACIONI SISTEMI\\TransIT\\TransIT.Repository\\OrderRepository.cs",
+              "RelativeToolTip": "TransIT.Repository\\OrderRepository.cs",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAqwAoAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-28T10:50:41.868Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Repository.cs",
+              "DocumentMoniker": "C:\\Users\\korisnik\\Desktop\\III GODINA\\INFORMACIONI SISTEMI\\TransIT\\TransIT.Repository\\Repository.cs",
+              "RelativeDocumentMoniker": "TransIT.Repository\\Repository.cs",
+              "ToolTip": "C:\\Users\\korisnik\\Desktop\\III GODINA\\INFORMACIONI SISTEMI\\TransIT\\TransIT.Repository\\Repository.cs",
+              "RelativeToolTip": "TransIT.Repository\\Repository.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAYwB8AAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-28T10:30:46.195Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "ClientRepository.cs",
+              "DocumentMoniker": "C:\\Users\\korisnik\\Desktop\\III GODINA\\INFORMACIONI SISTEMI\\TransIT\\TransIT.Repository\\ClientRepository.cs",
+              "RelativeDocumentMoniker": "TransIT.Repository\\ClientRepository.cs",
+              "ToolTip": "C:\\Users\\korisnik\\Desktop\\III GODINA\\INFORMACIONI SISTEMI\\TransIT\\TransIT.Repository\\ClientRepository.cs",
+              "RelativeToolTip": "TransIT.Repository\\ClientRepository.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAvwBkAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-31T14:27:54.081Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "ViewOrderDTO.cs",
+              "DocumentMoniker": "C:\\Users\\korisnik\\Desktop\\III GODINA\\INFORMACIONI SISTEMI\\TransIT\\TransIT.Application\\DTOs\\ViewOrderDTO.cs",
+              "RelativeDocumentMoniker": "TransIT.Application\\DTOs\\ViewOrderDTO.cs",
+              "ToolTip": "C:\\Users\\korisnik\\Desktop\\III GODINA\\INFORMACIONI SISTEMI\\TransIT\\TransIT.Application\\DTOs\\ViewOrderDTO.cs",
+              "RelativeToolTip": "TransIT.Application\\DTOs\\ViewOrderDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAwAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-31T14:15:06.838Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "OrderOfClientDTO.cs",
+              "DocumentMoniker": "C:\\Users\\korisnik\\Desktop\\III GODINA\\INFORMACIONI SISTEMI\\TransIT\\TransIT.Application\\DTOs\\OrderOfClientDTO.cs",
+              "RelativeDocumentMoniker": "TransIT.Application\\DTOs\\OrderOfClientDTO.cs",
+              "ToolTip": "C:\\Users\\korisnik\\Desktop\\III GODINA\\INFORMACIONI SISTEMI\\TransIT\\TransIT.Application\\DTOs\\OrderOfClientDTO.cs",
+              "RelativeToolTip": "TransIT.Application\\DTOs\\OrderOfClientDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-31T14:30:20.014Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "IClientRepository.cs",
+              "DocumentMoniker": "C:\\Users\\korisnik\\Desktop\\III GODINA\\INFORMACIONI SISTEMI\\TransIT\\TransIT.Domain\\Interfaces\\IClientRepository.cs",
+              "RelativeDocumentMoniker": "TransIT.Domain\\Interfaces\\IClientRepository.cs",
+              "ToolTip": "C:\\Users\\korisnik\\Desktop\\III GODINA\\INFORMACIONI SISTEMI\\TransIT\\TransIT.Domain\\Interfaces\\IClientRepository.cs",
+              "RelativeToolTip": "TransIT.Domain\\Interfaces\\IClientRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-31T14:27:21.558Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "Client.cs",
+              "DocumentMoniker": "C:\\Users\\korisnik\\Desktop\\III GODINA\\INFORMACIONI SISTEMI\\TransIT\\TransIT.Domain\\Models\\Users\\Client.cs",
+              "RelativeDocumentMoniker": "TransIT.Domain\\Models\\Users\\Client.cs",
+              "ToolTip": "C:\\Users\\korisnik\\Desktop\\III GODINA\\INFORMACIONI SISTEMI\\TransIT\\TransIT.Domain\\Models\\Users\\Client.cs",
+              "RelativeToolTip": "TransIT.Domain\\Models\\Users\\Client.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAmwBMAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-17T16:46:20.912Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "PackageInOrderDTO.cs",
+              "DocumentMoniker": "C:\\Users\\korisnik\\Desktop\\III GODINA\\INFORMACIONI SISTEMI\\TransIT\\TransIT.Application\\DTOs\\PackageInOrderDTO.cs",
+              "RelativeDocumentMoniker": "TransIT.Application\\DTOs\\PackageInOrderDTO.cs",
+              "ToolTip": "C:\\Users\\korisnik\\Desktop\\III GODINA\\INFORMACIONI SISTEMI\\TransIT\\TransIT.Application\\DTOs\\PackageInOrderDTO.cs",
+              "RelativeToolTip": "TransIT.Application\\DTOs\\PackageInOrderDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-31T14:16:01.775Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "TransIT.Infrastructure.csproj",
+              "DocumentMoniker": "C:\\Users\\korisnik\\Desktop\\III GODINA\\INFORMACIONI SISTEMI\\TransIT\\TransIT.Infrastructure\\TransIT.Infrastructure.csproj",
+              "RelativeDocumentMoniker": "TransIT.Infrastructure\\TransIT.Infrastructure.csproj",
+              "ToolTip": "C:\\Users\\korisnik\\Desktop\\III GODINA\\INFORMACIONI SISTEMI\\TransIT\\TransIT.Infrastructure\\TransIT.Infrastructure.csproj",
+              "RelativeToolTip": "TransIT.Infrastructure\\TransIT.Infrastructure.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-07-17T17:07:48.235Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "LoginEmployeeDTO.cs",
+              "DocumentMoniker": "C:\\Users\\korisnik\\Desktop\\III GODINA\\INFORMACIONI SISTEMI\\TransIT\\TransIT.Application\\DTOs\\LoginEmployeeDTO.cs",
+              "RelativeDocumentMoniker": "TransIT.Application\\DTOs\\LoginEmployeeDTO.cs",
+              "ToolTip": "C:\\Users\\korisnik\\Desktop\\III GODINA\\INFORMACIONI SISTEMI\\TransIT\\TransIT.Application\\DTOs\\LoginEmployeeDTO.cs",
+              "RelativeToolTip": "TransIT.Application\\DTOs\\LoginEmployeeDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-26T12:19:46.125Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "Item.cs",
+              "DocumentMoniker": "C:\\Users\\korisnik\\Desktop\\III GODINA\\INFORMACIONI SISTEMI\\TransIT\\TransIT.Domain\\Models\\Item.cs",
+              "RelativeDocumentMoniker": "TransIT.Domain\\Models\\Item.cs",
+              "ToolTip": "C:\\Users\\korisnik\\Desktop\\III GODINA\\INFORMACIONI SISTEMI\\TransIT\\TransIT.Domain\\Models\\Item.cs",
+              "RelativeToolTip": "TransIT.Domain\\Models\\Item.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-30T21:07:07.231Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 64,
+              "Title": "20240731122906_package-details.cs",
+              "DocumentMoniker": "C:\\Users\\korisnik\\Desktop\\III GODINA\\INFORMACIONI SISTEMI\\TransIT\\TransIT.Infrastructure\\Migrations\\20240731122906_package-details.cs",
+              "RelativeDocumentMoniker": "TransIT.Infrastructure\\Migrations\\20240731122906_package-details.cs",
+              "ToolTip": "C:\\Users\\korisnik\\Desktop\\III GODINA\\INFORMACIONI SISTEMI\\TransIT\\TransIT.Infrastructure\\Migrations\\20240731122906_package-details.cs",
+              "RelativeToolTip": "TransIT.Infrastructure\\Migrations\\20240731122906_package-details.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-31T12:29:07.031Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "ItemController.cs",
+              "DocumentMoniker": "C:\\Users\\korisnik\\Desktop\\III GODINA\\INFORMACIONI SISTEMI\\TransIT\\TransIT.API\\Controllers\\ItemController.cs",
+              "RelativeDocumentMoniker": "TransIT.API\\Controllers\\ItemController.cs",
+              "ToolTip": "C:\\Users\\korisnik\\Desktop\\III GODINA\\INFORMACIONI SISTEMI\\TransIT\\TransIT.API\\Controllers\\ItemController.cs",
+              "RelativeToolTip": "TransIT.API\\Controllers\\ItemController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-30T21:20:37.443Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 63,
+              "Title": "20240730211913_item.cs",
+              "DocumentMoniker": "C:\\Users\\korisnik\\Desktop\\III GODINA\\INFORMACIONI SISTEMI\\TransIT\\TransIT.Infrastructure\\Migrations\\20240730211913_item.cs",
+              "RelativeDocumentMoniker": "TransIT.Infrastructure\\Migrations\\20240730211913_item.cs",
+              "ToolTip": "C:\\Users\\korisnik\\Desktop\\III GODINA\\INFORMACIONI SISTEMI\\TransIT\\TransIT.Infrastructure\\Migrations\\20240730211913_item.cs",
+              "RelativeToolTip": "TransIT.Infrastructure\\Migrations\\20240730211913_item.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-30T21:19:13.468Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "TransIT.Application.csproj",
+              "DocumentMoniker": "C:\\Users\\korisnik\\Desktop\\III GODINA\\INFORMACIONI SISTEMI\\TransIT\\TransIT.Application\\TransIT.Application.csproj",
+              "RelativeDocumentMoniker": "TransIT.Application\\TransIT.Application.csproj",
+              "ToolTip": "C:\\Users\\korisnik\\Desktop\\III GODINA\\INFORMACIONI SISTEMI\\TransIT\\TransIT.Application\\TransIT.Application.csproj",
+              "RelativeToolTip": "TransIT.Application\\TransIT.Application.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-07-26T12:19:18.074Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 62,
+              "Title": "20240730212215_item2.cs",
+              "DocumentMoniker": "C:\\Users\\korisnik\\Desktop\\III GODINA\\INFORMACIONI SISTEMI\\TransIT\\TransIT.Infrastructure\\Migrations\\20240730212215_item2.cs",
+              "RelativeDocumentMoniker": "TransIT.Infrastructure\\Migrations\\20240730212215_item2.cs",
+              "ToolTip": "C:\\Users\\korisnik\\Desktop\\III GODINA\\INFORMACIONI SISTEMI\\TransIT\\TransIT.Infrastructure\\Migrations\\20240730212215_item2.cs",
+              "RelativeToolTip": "TransIT.Infrastructure\\Migrations\\20240730212215_item2.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-30T21:22:15.591Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "TransIT.API.csproj",
+              "DocumentMoniker": "C:\\Users\\korisnik\\Desktop\\III GODINA\\INFORMACIONI SISTEMI\\TransIT\\TransIT.API\\TransIT.API.csproj",
+              "RelativeDocumentMoniker": "TransIT.API\\TransIT.API.csproj",
+              "ToolTip": "C:\\Users\\korisnik\\Desktop\\III GODINA\\INFORMACIONI SISTEMI\\TransIT\\TransIT.API\\TransIT.API.csproj",
+              "RelativeToolTip": "TransIT.API\\TransIT.API.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAABgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-07-25T13:52:29.493Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "RegisterClientDTO.cs",
+              "DocumentMoniker": "C:\\Users\\korisnik\\Desktop\\III GODINA\\INFORMACIONI SISTEMI\\TransIT\\TransIT.Application\\DTOs\\RegisterClientDTO.cs",
+              "RelativeDocumentMoniker": "TransIT.Application\\DTOs\\RegisterClientDTO.cs",
+              "ToolTip": "C:\\Users\\korisnik\\Desktop\\III GODINA\\INFORMACIONI SISTEMI\\TransIT\\TransIT.Application\\DTOs\\RegisterClientDTO.cs",
+              "RelativeToolTip": "TransIT.Application\\DTOs\\RegisterClientDTO.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABEAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-28T10:40:16.952Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "LoginClientDTO.cs",
+              "DocumentMoniker": "C:\\Users\\korisnik\\Desktop\\III GODINA\\INFORMACIONI SISTEMI\\TransIT\\TransIT.Application\\DTOs\\LoginClientDTO.cs",
+              "RelativeDocumentMoniker": "TransIT.Application\\DTOs\\LoginClientDTO.cs",
+              "ToolTip": "C:\\Users\\korisnik\\Desktop\\III GODINA\\INFORMACIONI SISTEMI\\TransIT\\TransIT.Application\\DTOs\\LoginClientDTO.cs",
+              "RelativeToolTip": "TransIT.Application\\DTOs\\LoginClientDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-28T10:42:43.974Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "RegisterEmployeeDTO.cs",
+              "DocumentMoniker": "C:\\Users\\korisnik\\Desktop\\III GODINA\\INFORMACIONI SISTEMI\\TransIT\\TransIT.Application\\DTOs\\RegisterEmployeeDTO.cs",
+              "RelativeDocumentMoniker": "TransIT.Application\\DTOs\\RegisterEmployeeDTO.cs",
+              "ToolTip": "C:\\Users\\korisnik\\Desktop\\III GODINA\\INFORMACIONI SISTEMI\\TransIT\\TransIT.Application\\DTOs\\RegisterEmployeeDTO.cs",
+              "RelativeToolTip": "TransIT.Application\\DTOs\\RegisterEmployeeDTO.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAiwBIAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-26T12:20:25.374Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "TransITContext.cs",
+              "DocumentMoniker": "C:\\Users\\korisnik\\Desktop\\III GODINA\\INFORMACIONI SISTEMI\\TransIT\\TransIT.Infrastructure\\TransITContext.cs",
+              "RelativeDocumentMoniker": "TransIT.Infrastructure\\TransITContext.cs",
+              "ToolTip": "C:\\Users\\korisnik\\Desktop\\III GODINA\\INFORMACIONI SISTEMI\\TransIT\\TransIT.Infrastructure\\TransITContext.cs",
+              "RelativeToolTip": "TransIT.Infrastructure\\TransITContext.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAuwCIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-17T17:09:20.93Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\korisnik\\Desktop\\III GODINA\\INFORMACIONI SISTEMI\\TransIT\\TransIT.Domain\\Models\\Users\\Employee.cs",
+              "RelativeDocumentMoniker": "TransIT.Domain\\Models\\Users\\Employee.cs",
+              "ToolTip": "C:\\Users\\korisnik\\Desktop\\III GODINA\\INFORMACIONI SISTEMI\\TransIT\\TransIT.Domain\\Models\\Users\\Employee.cs",
+              "RelativeToolTip": "TransIT.Domain\\Models\\Users\\Employee.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAIBJwAoAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-25T14:14:31.077Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "Dispatcher.cs",
+              "DocumentMoniker": "C:\\Users\\korisnik\\Desktop\\III GODINA\\INFORMACIONI SISTEMI\\TransIT\\TransIT.Domain\\Models\\Users\\Dispatcher.cs",
+              "RelativeDocumentMoniker": "TransIT.Domain\\Models\\Users\\Dispatcher.cs",
+              "ToolTip": "C:\\Users\\korisnik\\Desktop\\III GODINA\\INFORMACIONI SISTEMI\\TransIT\\TransIT.Domain\\Models\\Users\\Dispatcher.cs",
+              "RelativeToolTip": "TransIT.Domain\\Models\\Users\\Dispatcher.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-17T16:49:56.3Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "TransIT.Domain.csproj",
+              "DocumentMoniker": "C:\\Users\\korisnik\\Desktop\\III GODINA\\INFORMACIONI SISTEMI\\TransIT\\TransIT.Domain\\TransIT.Domain.csproj",
+              "RelativeDocumentMoniker": "TransIT.Domain\\TransIT.Domain.csproj",
+              "ToolTip": "C:\\Users\\korisnik\\Desktop\\III GODINA\\INFORMACIONI SISTEMI\\TransIT\\TransIT.Domain\\TransIT.Domain.csproj",
+              "RelativeToolTip": "TransIT.Domain\\TransIT.Domain.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-07-17T16:45:09.573Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "20240726123123_employee.cs",
+              "DocumentMoniker": "C:\\Users\\korisnik\\Desktop\\III GODINA\\INFORMACIONI SISTEMI\\TransIT\\TransIT.Infrastructure\\Migrations\\20240726123123_employee.cs",
+              "RelativeDocumentMoniker": "TransIT.Infrastructure\\Migrations\\20240726123123_employee.cs",
+              "ToolTip": "C:\\Users\\korisnik\\Desktop\\III GODINA\\INFORMACIONI SISTEMI\\TransIT\\TransIT.Infrastructure\\Migrations\\20240726123123_employee.cs",
+              "RelativeToolTip": "TransIT.Infrastructure\\Migrations\\20240726123123_employee.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-26T12:31:23.513Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "20240725142957_prices-list.cs",
+              "DocumentMoniker": "C:\\Users\\korisnik\\Desktop\\III GODINA\\INFORMACIONI SISTEMI\\TransIT\\TransIT.Infrastructure\\Migrations\\20240725142957_prices-list.cs",
+              "RelativeDocumentMoniker": "TransIT.Infrastructure\\Migrations\\20240725142957_prices-list.cs",
+              "ToolTip": "C:\\Users\\korisnik\\Desktop\\III GODINA\\INFORMACIONI SISTEMI\\TransIT\\TransIT.Infrastructure\\Migrations\\20240725142957_prices-list.cs",
+              "RelativeToolTip": "TransIT.Infrastructure\\Migrations\\20240725142957_prices-list.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-25T14:29:58.18Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "PricesList.cs",
+              "DocumentMoniker": "C:\\Users\\korisnik\\Desktop\\III GODINA\\INFORMACIONI SISTEMI\\TransIT\\TransIT.Domain\\Models\\PricesList.cs",
+              "RelativeDocumentMoniker": "TransIT.Domain\\Models\\PricesList.cs",
+              "ToolTip": "C:\\Users\\korisnik\\Desktop\\III GODINA\\INFORMACIONI SISTEMI\\TransIT\\TransIT.Domain\\Models\\PricesList.cs",
+              "RelativeToolTip": "TransIT.Domain\\Models\\PricesList.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-25T14:27:09.82Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\korisnik\\Desktop\\III GODINA\\INFORMACIONI SISTEMI\\TransIT\\TransIT.API\\appsettings.json",
+              "RelativeDocumentMoniker": "TransIT.API\\appsettings.json",
+              "ToolTip": "C:\\Users\\korisnik\\Desktop\\III GODINA\\INFORMACIONI SISTEMI\\TransIT\\TransIT.API\\appsettings.json",
+              "RelativeToolTip": "TransIT.API\\appsettings.json",
+              "ViewState": "AQIAAAUAAAAAAAAAAABRwA0AAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-25T13:46:30.585Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 58,
+              "Title": "20240725142512_order-package.cs",
+              "DocumentMoniker": "C:\\Users\\korisnik\\Desktop\\III GODINA\\INFORMACIONI SISTEMI\\TransIT\\TransIT.Infrastructure\\Migrations\\20240725142512_order-package.cs",
+              "RelativeDocumentMoniker": "TransIT.Infrastructure\\Migrations\\20240725142512_order-package.cs",
+              "ToolTip": "C:\\Users\\korisnik\\Desktop\\III GODINA\\INFORMACIONI SISTEMI\\TransIT\\TransIT.Infrastructure\\Migrations\\20240725142512_order-package.cs",
+              "RelativeToolTip": "TransIT.Infrastructure\\Migrations\\20240725142512_order-package.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAQwBsAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-25T14:25:12.459Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 59,
+              "Title": "20240725142253_models-added.cs",
+              "DocumentMoniker": "C:\\Users\\korisnik\\Desktop\\III GODINA\\INFORMACIONI SISTEMI\\TransIT\\TransIT.Infrastructure\\Migrations\\20240725142253_models-added.cs",
+              "RelativeDocumentMoniker": "TransIT.Infrastructure\\Migrations\\20240725142253_models-added.cs",
+              "ToolTip": "C:\\Users\\korisnik\\Desktop\\III GODINA\\INFORMACIONI SISTEMI\\TransIT\\TransIT.Infrastructure\\Migrations\\20240725142253_models-added.cs",
+              "RelativeToolTip": "TransIT.Infrastructure\\Migrations\\20240725142253_models-added.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-25T14:22:53.864Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 60,
+              "Title": "20240725141939_models.cs",
+              "DocumentMoniker": "C:\\Users\\korisnik\\Desktop\\III GODINA\\INFORMACIONI SISTEMI\\TransIT\\TransIT.Infrastructure\\Migrations\\20240725141939_models.cs",
+              "RelativeDocumentMoniker": "TransIT.Infrastructure\\Migrations\\20240725141939_models.cs",
+              "ToolTip": "C:\\Users\\korisnik\\Desktop\\III GODINA\\INFORMACIONI SISTEMI\\TransIT\\TransIT.Infrastructure\\Migrations\\20240725141939_models.cs",
+              "RelativeToolTip": "TransIT.Infrastructure\\Migrations\\20240725141939_models.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-25T14:19:40.147Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "TravelCost.cs",
+              "DocumentMoniker": "C:\\Users\\korisnik\\Desktop\\III GODINA\\INFORMACIONI SISTEMI\\TransIT\\TransIT.Domain\\Models\\TravelCost.cs",
+              "RelativeDocumentMoniker": "TransIT.Domain\\Models\\TravelCost.cs",
+              "ToolTip": "C:\\Users\\korisnik\\Desktop\\III GODINA\\INFORMACIONI SISTEMI\\TransIT\\TransIT.Domain\\Models\\TravelCost.cs",
+              "RelativeToolTip": "TransIT.Domain\\Models\\TravelCost.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-25T14:17:00.076Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "Driver.cs",
+              "DocumentMoniker": "C:\\Users\\korisnik\\Desktop\\III GODINA\\INFORMACIONI SISTEMI\\TransIT\\TransIT.Domain\\Models\\Users\\Driver.cs",
+              "RelativeDocumentMoniker": "TransIT.Domain\\Models\\Users\\Driver.cs",
+              "ToolTip": "C:\\Users\\korisnik\\Desktop\\III GODINA\\INFORMACIONI SISTEMI\\TransIT\\TransIT.Domain\\Models\\Users\\Driver.cs",
+              "RelativeToolTip": "TransIT.Domain\\Models\\Users\\Driver.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-17T16:48:26.955Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "Manager.cs",
+              "DocumentMoniker": "C:\\Users\\korisnik\\Desktop\\III GODINA\\INFORMACIONI SISTEMI\\TransIT\\TransIT.Domain\\Models\\Users\\Manager.cs",
+              "RelativeDocumentMoniker": "TransIT.Domain\\Models\\Users\\Manager.cs",
+              "ToolTip": "C:\\Users\\korisnik\\Desktop\\III GODINA\\INFORMACIONI SISTEMI\\TransIT\\TransIT.Domain\\Models\\Users\\Manager.cs",
+              "RelativeToolTip": "TransIT.Domain\\Models\\Users\\Manager.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-17T16:46:58.989Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "Transport.cs",
+              "DocumentMoniker": "C:\\Users\\korisnik\\Desktop\\III GODINA\\INFORMACIONI SISTEMI\\TransIT\\TransIT.Domain\\Models\\Transport.cs",
+              "RelativeDocumentMoniker": "TransIT.Domain\\Models\\Transport.cs",
+              "ToolTip": "C:\\Users\\korisnik\\Desktop\\III GODINA\\INFORMACIONI SISTEMI\\TransIT\\TransIT.Domain\\Models\\Transport.cs",
+              "RelativeToolTip": "TransIT.Domain\\Models\\Transport.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAIBJwBAAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-25T14:11:12.955Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 61,
+              "Title": "20240725135625_init.cs",
+              "DocumentMoniker": "C:\\Users\\korisnik\\Desktop\\III GODINA\\INFORMACIONI SISTEMI\\TransIT\\TransIT.Infrastructure\\Migrations\\20240725135625_init.cs",
+              "RelativeDocumentMoniker": "TransIT.Infrastructure\\Migrations\\20240725135625_init.cs",
+              "ToolTip": "C:\\Users\\korisnik\\Desktop\\III GODINA\\INFORMACIONI SISTEMI\\TransIT\\TransIT.Infrastructure\\Migrations\\20240725135625_init.cs",
+              "RelativeToolTip": "TransIT.Infrastructure\\Migrations\\20240725135625_init.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-25T13:56:25.455Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

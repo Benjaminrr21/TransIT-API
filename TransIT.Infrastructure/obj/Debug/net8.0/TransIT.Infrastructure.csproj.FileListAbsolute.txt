@@ -1,0 +1,17 @@
+C:\Users\korisnik\Desktop\III GODINA\INFORMACIONI SISTEMI\TransIT\TransIT.Infrastructure\bin\Debug\net8.0\TransIT.Infrastructure.deps.json
+C:\Users\korisnik\Desktop\III GODINA\INFORMACIONI SISTEMI\TransIT\TransIT.Infrastructure\bin\Debug\net8.0\TransIT.Infrastructure.runtimeconfig.json
+C:\Users\korisnik\Desktop\III GODINA\INFORMACIONI SISTEMI\TransIT\TransIT.Infrastructure\bin\Debug\net8.0\TransIT.Infrastructure.dll
+C:\Users\korisnik\Desktop\III GODINA\INFORMACIONI SISTEMI\TransIT\TransIT.Infrastructure\bin\Debug\net8.0\TransIT.Infrastructure.pdb
+C:\Users\korisnik\Desktop\III GODINA\INFORMACIONI SISTEMI\TransIT\TransIT.Infrastructure\bin\Debug\net8.0\TransIT.Domain.dll
+C:\Users\korisnik\Desktop\III GODINA\INFORMACIONI SISTEMI\TransIT\TransIT.Infrastructure\bin\Debug\net8.0\TransIT.Domain.pdb
+C:\Users\korisnik\Desktop\III GODINA\INFORMACIONI SISTEMI\TransIT\TransIT.Infrastructure\obj\Debug\net8.0\TransIT.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\korisnik\Desktop\III GODINA\INFORMACIONI SISTEMI\TransIT\TransIT.Infrastructure\obj\Debug\net8.0\TransIT.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\korisnik\Desktop\III GODINA\INFORMACIONI SISTEMI\TransIT\TransIT.Infrastructure\obj\Debug\net8.0\TransIT.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\korisnik\Desktop\III GODINA\INFORMACIONI SISTEMI\TransIT\TransIT.Infrastructure\obj\Debug\net8.0\TransIT.Infrastructure.AssemblyInfo.cs
+C:\Users\korisnik\Desktop\III GODINA\INFORMACIONI SISTEMI\TransIT\TransIT.Infrastructure\obj\Debug\net8.0\TransIT.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\korisnik\Desktop\III GODINA\INFORMACIONI SISTEMI\TransIT\TransIT.Infrastructure\obj\Debug\net8.0\TransIT..39BC145D.Up2Date
+C:\Users\korisnik\Desktop\III GODINA\INFORMACIONI SISTEMI\TransIT\TransIT.Infrastructure\obj\Debug\net8.0\TransIT.Infrastructure.dll
+C:\Users\korisnik\Desktop\III GODINA\INFORMACIONI SISTEMI\TransIT\TransIT.Infrastructure\obj\Debug\net8.0\refint\TransIT.Infrastructure.dll
+C:\Users\korisnik\Desktop\III GODINA\INFORMACIONI SISTEMI\TransIT\TransIT.Infrastructure\obj\Debug\net8.0\TransIT.Infrastructure.pdb
+C:\Users\korisnik\Desktop\III GODINA\INFORMACIONI SISTEMI\TransIT\TransIT.Infrastructure\obj\Debug\net8.0\TransIT.Infrastructure.genruntimeconfig.cache
+C:\Users\korisnik\Desktop\III GODINA\INFORMACIONI SISTEMI\TransIT\TransIT.Infrastructure\obj\Debug\net8.0\ref\TransIT.Infrastructure.dll
